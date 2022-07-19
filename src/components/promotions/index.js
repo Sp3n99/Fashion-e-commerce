@@ -6,7 +6,7 @@ import { MessageText, PromotionsContainer } from "../../styles/promotions";
 const messages = [
     "20% off on your first order!",
     "Summer sale starts now, visit any store.",
-    "You have 30 days to live :)"
+    "Don't miss out!"
 ];
 
 export default function Promotions(){
